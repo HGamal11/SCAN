@@ -6,10 +6,10 @@ This is the implementation of the paper ["SCAN: Sequence-Character Aware Network
 
 &nbsp;
 
+
 ![image](https://github.com/HGamal11/SCAN/blob/master/scan.png)
 
 &nbsp;
-
 
 ## Requirements
 - Python 3.6
