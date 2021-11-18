@@ -9,11 +9,11 @@ loss is removed, enabling the use of data with only word-level annotations.
 
 <p align="center">
 <img src="https://github.com/HGamal11/SCAN/blob/master/Sample.png" width="60%">
-<\p>
+
 &nbsp;  
 <p align="center">
 <img src="https://github.com/HGamal11/SCAN/blob/master/scan.png" width="80%">
-<\p>  
+
 
 
 ## Requirements
